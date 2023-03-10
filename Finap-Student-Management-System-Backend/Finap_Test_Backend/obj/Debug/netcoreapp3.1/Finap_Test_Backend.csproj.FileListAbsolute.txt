@@ -1,0 +1,69 @@
+D:\Finap Test\Finap_Test_Backend\Finap_Test_Backend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Finap Test\Finap_Test_Backend\Finap_Test_Backend\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Finap Test\Finap_Test_Backend\Finap_Test_Backend\bin\Debug\netcoreapp3.1\Finap_Test_Backend.exe
+D:\Finap Test\Finap_Test_Backend\Finap_Test_Backend\bin\Debug\netcoreapp3.1\Finap_Test_Backend.deps.json
+D:\Finap Test\Finap_Test_Backend\Finap_Test_Backend\bin\Debug\netcoreapp3.1\Finap_Test_Backend.runtimeconfig.json
+D:\Finap Test\Finap_Test_Backend\Finap_Test_Backend\bin\Debug\netcoreapp3.1\Finap_Test_Backend.runtimeconfig.dev.json
+D:\Finap Test\Finap_Test_Backend\Finap_Test_Backend\bin\Debug\netcoreapp3.1\Finap_Test_Backend.dll
+D:\Finap Test\Finap_Test_Backend\Finap_Test_Backend\bin\Debug\netcoreapp3.1\Finap_Test_Backend.pdb
+D:\Finap Test\Finap_Test_Backend\Finap_Test_Backend\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Finap Test\Finap_Test_Backend\Finap_Test_Backend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Finap Test\Finap_Test_Backend\Finap_Test_Backend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Finap Test\Finap_Test_Backend\Finap_Test_Backend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Finap Test\Finap_Test_Backend\Finap_Test_Backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Finap Test\Finap_Test_Backend\Finap_Test_Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Finap Test\Finap_Test_Backend\Finap_Test_Backend\bin\Debug\netcoreapp3.1\ApplicationServices.dll
+D:\Finap Test\Finap_Test_Backend\Finap_Test_Backend\bin\Debug\netcoreapp3.1\BusinessObjects.dll
+D:\Finap Test\Finap_Test_Backend\Finap_Test_Backend\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+D:\Finap Test\Finap_Test_Backend\Finap_Test_Backend\bin\Debug\netcoreapp3.1\ApplicationServices.pdb
+D:\Finap Test\Finap_Test_Backend\Finap_Test_Backend\bin\Debug\netcoreapp3.1\BusinessObjects.pdb
+D:\Finap Test\Finap_Test_Backend\Finap_Test_Backend\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+D:\Finap Test\Finap_Test_Backend\Finap_Test_Backend\obj\Debug\netcoreapp3.1\Finap_Test_Backend.csproj.AssemblyReference.cache
+D:\Finap Test\Finap_Test_Backend\Finap_Test_Backend\obj\Debug\netcoreapp3.1\Finap_Test_Backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Finap Test\Finap_Test_Backend\Finap_Test_Backend\obj\Debug\netcoreapp3.1\Finap_Test_Backend.AssemblyInfoInputs.cache
+D:\Finap Test\Finap_Test_Backend\Finap_Test_Backend\obj\Debug\netcoreapp3.1\Finap_Test_Backend.AssemblyInfo.cs
+D:\Finap Test\Finap_Test_Backend\Finap_Test_Backend\obj\Debug\netcoreapp3.1\Finap_Test_Backend.csproj.CoreCompileInputs.cache
+D:\Finap Test\Finap_Test_Backend\Finap_Test_Backend\obj\Debug\netcoreapp3.1\Finap_Test_Backend.MvcApplicationPartsAssemblyInfo.cache
+D:\Finap Test\Finap_Test_Backend\Finap_Test_Backend\obj\Debug\netcoreapp3.1\staticwebassets\Finap_Test_Backend.StaticWebAssets.Manifest.cache
+D:\Finap Test\Finap_Test_Backend\Finap_Test_Backend\obj\Debug\netcoreapp3.1\staticwebassets\Finap_Test_Backend.StaticWebAssets.Pack.cache
+D:\Finap Test\Finap_Test_Backend\Finap_Test_Backend\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Finap_Test_Backend.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Finap Test\Finap_Test_Backend\Finap_Test_Backend\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Finap_Test_Backend.props
+D:\Finap Test\Finap_Test_Backend\Finap_Test_Backend\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Finap_Test_Backend.props
+D:\Finap Test\Finap_Test_Backend\Finap_Test_Backend\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Finap_Test_Backend.props
+D:\Finap Test\Finap_Test_Backend\Finap_Test_Backend\obj\Debug\netcoreapp3.1\Finap_Test_Backend.RazorTargetAssemblyInfo.cache
+D:\Finap Test\Finap_Test_Backend\Finap_Test_Backend\obj\Debug\netcoreapp3.1\Finap_Test_Backend.csproj.CopyComplete
+D:\Finap Test\Finap_Test_Backend\Finap_Test_Backend\obj\Debug\netcoreapp3.1\Finap_Test_Backend.dll
+D:\Finap Test\Finap_Test_Backend\Finap_Test_Backend\obj\Debug\netcoreapp3.1\Finap_Test_Backend.pdb
+D:\Finap Test\Finap_Test_Backend\Finap_Test_Backend\obj\Debug\netcoreapp3.1\Finap_Test_Backend.genruntimeconfig.cache
+F:\FINAP\finap-test-main\Finap_Test_Backend\Finap_Test_Backend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\FINAP\finap-test-main\Finap_Test_Backend\Finap_Test_Backend\bin\Debug\netcoreapp3.1\appsettings.json
+F:\FINAP\finap-test-main\Finap_Test_Backend\Finap_Test_Backend\bin\Debug\netcoreapp3.1\Finap_Test_Backend.exe
+F:\FINAP\finap-test-main\Finap_Test_Backend\Finap_Test_Backend\bin\Debug\netcoreapp3.1\Finap_Test_Backend.deps.json
+F:\FINAP\finap-test-main\Finap_Test_Backend\Finap_Test_Backend\bin\Debug\netcoreapp3.1\Finap_Test_Backend.runtimeconfig.json
+F:\FINAP\finap-test-main\Finap_Test_Backend\Finap_Test_Backend\bin\Debug\netcoreapp3.1\Finap_Test_Backend.runtimeconfig.dev.json
+F:\FINAP\finap-test-main\Finap_Test_Backend\Finap_Test_Backend\bin\Debug\netcoreapp3.1\Finap_Test_Backend.dll
+F:\FINAP\finap-test-main\Finap_Test_Backend\Finap_Test_Backend\bin\Debug\netcoreapp3.1\Finap_Test_Backend.pdb
+F:\FINAP\finap-test-main\Finap_Test_Backend\Finap_Test_Backend\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\FINAP\finap-test-main\Finap_Test_Backend\Finap_Test_Backend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\FINAP\finap-test-main\Finap_Test_Backend\Finap_Test_Backend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\FINAP\finap-test-main\Finap_Test_Backend\Finap_Test_Backend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\FINAP\finap-test-main\Finap_Test_Backend\Finap_Test_Backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\FINAP\finap-test-main\Finap_Test_Backend\Finap_Test_Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\FINAP\finap-test-main\Finap_Test_Backend\Finap_Test_Backend\bin\Debug\netcoreapp3.1\ApplicationServices.dll
+F:\FINAP\finap-test-main\Finap_Test_Backend\Finap_Test_Backend\bin\Debug\netcoreapp3.1\BusinessObjects.dll
+F:\FINAP\finap-test-main\Finap_Test_Backend\Finap_Test_Backend\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+F:\FINAP\finap-test-main\Finap_Test_Backend\Finap_Test_Backend\bin\Debug\netcoreapp3.1\ApplicationServices.pdb
+F:\FINAP\finap-test-main\Finap_Test_Backend\Finap_Test_Backend\bin\Debug\netcoreapp3.1\BusinessObjects.pdb
+F:\FINAP\finap-test-main\Finap_Test_Backend\Finap_Test_Backend\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+F:\FINAP\finap-test-main\Finap_Test_Backend\Finap_Test_Backend\obj\Debug\netcoreapp3.1\Finap_Test_Backend.csproj.AssemblyReference.cache
+F:\FINAP\finap-test-main\Finap_Test_Backend\Finap_Test_Backend\obj\Debug\netcoreapp3.1\Finap_Test_Backend.GeneratedMSBuildEditorConfig.editorconfig
+F:\FINAP\finap-test-main\Finap_Test_Backend\Finap_Test_Backend\obj\Debug\netcoreapp3.1\Finap_Test_Backend.AssemblyInfoInputs.cache
+F:\FINAP\finap-test-main\Finap_Test_Backend\Finap_Test_Backend\obj\Debug\netcoreapp3.1\Finap_Test_Backend.AssemblyInfo.cs
+F:\FINAP\finap-test-main\Finap_Test_Backend\Finap_Test_Backend\obj\Debug\netcoreapp3.1\Finap_Test_Backend.csproj.CoreCompileInputs.cache
+F:\FINAP\finap-test-main\Finap_Test_Backend\Finap_Test_Backend\obj\Debug\netcoreapp3.1\Finap_Test_Backend.MvcApplicationPartsAssemblyInfo.cache
+F:\FINAP\finap-test-main\Finap_Test_Backend\Finap_Test_Backend\obj\Debug\netcoreapp3.1\staticwebassets\Finap_Test_Backend.StaticWebAssets.Manifest.cache
+F:\FINAP\finap-test-main\Finap_Test_Backend\Finap_Test_Backend\obj\Debug\netcoreapp3.1\Finap_Test_Backend.RazorTargetAssemblyInfo.cache
+F:\FINAP\finap-test-main\Finap_Test_Backend\Finap_Test_Backend\obj\Debug\netcoreapp3.1\Finap_Test_Backend.csproj.CopyComplete
+F:\FINAP\finap-test-main\Finap_Test_Backend\Finap_Test_Backend\obj\Debug\netcoreapp3.1\Finap_Test_Backend.dll
+F:\FINAP\finap-test-main\Finap_Test_Backend\Finap_Test_Backend\obj\Debug\netcoreapp3.1\Finap_Test_Backend.pdb
+F:\FINAP\finap-test-main\Finap_Test_Backend\Finap_Test_Backend\obj\Debug\netcoreapp3.1\Finap_Test_Backend.genruntimeconfig.cache

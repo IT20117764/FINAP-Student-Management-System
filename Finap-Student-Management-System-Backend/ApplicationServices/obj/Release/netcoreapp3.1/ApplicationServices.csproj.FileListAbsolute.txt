@@ -1,0 +1,15 @@
+F:\FINAP\finap-test-main\Finap_Test_Backend\ApplicationServices\bin\Release\netcoreapp3.1\ApplicationServices.deps.json
+F:\FINAP\finap-test-main\Finap_Test_Backend\ApplicationServices\bin\Release\netcoreapp3.1\ApplicationServices.dll
+F:\FINAP\finap-test-main\Finap_Test_Backend\ApplicationServices\bin\Release\netcoreapp3.1\ApplicationServices.pdb
+F:\FINAP\finap-test-main\Finap_Test_Backend\ApplicationServices\bin\Release\netcoreapp3.1\BusinessObjects.dll
+F:\FINAP\finap-test-main\Finap_Test_Backend\ApplicationServices\bin\Release\netcoreapp3.1\DataAccessLayer.dll
+F:\FINAP\finap-test-main\Finap_Test_Backend\ApplicationServices\bin\Release\netcoreapp3.1\BusinessObjects.pdb
+F:\FINAP\finap-test-main\Finap_Test_Backend\ApplicationServices\bin\Release\netcoreapp3.1\DataAccessLayer.pdb
+F:\FINAP\finap-test-main\Finap_Test_Backend\ApplicationServices\obj\Release\netcoreapp3.1\ApplicationServices.csproj.AssemblyReference.cache
+F:\FINAP\finap-test-main\Finap_Test_Backend\ApplicationServices\obj\Release\netcoreapp3.1\ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+F:\FINAP\finap-test-main\Finap_Test_Backend\ApplicationServices\obj\Release\netcoreapp3.1\ApplicationServices.AssemblyInfoInputs.cache
+F:\FINAP\finap-test-main\Finap_Test_Backend\ApplicationServices\obj\Release\netcoreapp3.1\ApplicationServices.AssemblyInfo.cs
+F:\FINAP\finap-test-main\Finap_Test_Backend\ApplicationServices\obj\Release\netcoreapp3.1\ApplicationServices.csproj.CoreCompileInputs.cache
+F:\FINAP\finap-test-main\Finap_Test_Backend\ApplicationServices\obj\Release\netcoreapp3.1\ApplicationServices.csproj.CopyComplete
+F:\FINAP\finap-test-main\Finap_Test_Backend\ApplicationServices\obj\Release\netcoreapp3.1\ApplicationServices.dll
+F:\FINAP\finap-test-main\Finap_Test_Backend\ApplicationServices\obj\Release\netcoreapp3.1\ApplicationServices.pdb

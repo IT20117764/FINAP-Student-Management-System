@@ -1,0 +1,22 @@
+#frm{
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: rgba(141, 153, 150, 0.316);
+    border-radius: 8px;
+}
+
+#frmGrp{
+    padding-top: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+#btn{
+    margin-bottom: 10px;
+}
+#crd{
+    background-color: rgba(172, 182, 215, 0.807);
+}
+#crdHeader{
+    font-size: 2rem;
+    text-align: center ;
+}

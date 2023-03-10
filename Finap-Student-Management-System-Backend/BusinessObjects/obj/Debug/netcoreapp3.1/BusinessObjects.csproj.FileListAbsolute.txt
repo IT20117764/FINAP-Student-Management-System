@@ -1,0 +1,30 @@
+D:\Finap Test\Finap_Test_Backend\BusinessObjects\bin\Debug\netcoreapp3.1\BusinessObjects.deps.json
+D:\Finap Test\Finap_Test_Backend\BusinessObjects\bin\Debug\netcoreapp3.1\BusinessObjects.dll
+D:\Finap Test\Finap_Test_Backend\BusinessObjects\bin\Debug\netcoreapp3.1\BusinessObjects.pdb
+D:\Finap Test\Finap_Test_Backend\BusinessObjects\obj\Debug\netcoreapp3.1\BusinessObjects.csproj.AssemblyReference.cache
+D:\Finap Test\Finap_Test_Backend\BusinessObjects\obj\Debug\netcoreapp3.1\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Finap Test\Finap_Test_Backend\BusinessObjects\obj\Debug\netcoreapp3.1\BusinessObjects.AssemblyInfoInputs.cache
+D:\Finap Test\Finap_Test_Backend\BusinessObjects\obj\Debug\netcoreapp3.1\BusinessObjects.AssemblyInfo.cs
+D:\Finap Test\Finap_Test_Backend\BusinessObjects\obj\Debug\netcoreapp3.1\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\Finap Test\Finap_Test_Backend\BusinessObjects\obj\Debug\netcoreapp3.1\BusinessObjects.dll
+D:\Finap Test\Finap_Test_Backend\BusinessObjects\obj\Debug\netcoreapp3.1\BusinessObjects.pdb
+F:\FINAP\finap-test-main\Finap_Test_Backend\BusinessObjects\bin\Debug\netcoreapp3.1\BusinessObjects.deps.json
+F:\FINAP\finap-test-main\Finap_Test_Backend\BusinessObjects\bin\Debug\netcoreapp3.1\BusinessObjects.dll
+F:\FINAP\finap-test-main\Finap_Test_Backend\BusinessObjects\bin\Debug\netcoreapp3.1\BusinessObjects.pdb
+F:\FINAP\finap-test-main\Finap_Test_Backend\BusinessObjects\obj\Debug\netcoreapp3.1\BusinessObjects.csproj.AssemblyReference.cache
+F:\FINAP\finap-test-main\Finap_Test_Backend\BusinessObjects\obj\Debug\netcoreapp3.1\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+F:\FINAP\finap-test-main\Finap_Test_Backend\BusinessObjects\obj\Debug\netcoreapp3.1\BusinessObjects.AssemblyInfoInputs.cache
+F:\FINAP\finap-test-main\Finap_Test_Backend\BusinessObjects\obj\Debug\netcoreapp3.1\BusinessObjects.AssemblyInfo.cs
+F:\FINAP\finap-test-main\Finap_Test_Backend\BusinessObjects\obj\Debug\netcoreapp3.1\BusinessObjects.csproj.CoreCompileInputs.cache
+F:\FINAP\finap-test-main\Finap_Test_Backend\BusinessObjects\obj\Debug\netcoreapp3.1\BusinessObjects.dll
+F:\FINAP\finap-test-main\Finap_Test_Backend\BusinessObjects\obj\Debug\netcoreapp3.1\BusinessObjects.pdb
+F:\FINAP\finap-test-main\Finap-Student-Management-System-Backend\BusinessObjects\bin\Debug\netcoreapp3.1\BusinessObjects.deps.json
+F:\FINAP\finap-test-main\Finap-Student-Management-System-Backend\BusinessObjects\bin\Debug\netcoreapp3.1\BusinessObjects.dll
+F:\FINAP\finap-test-main\Finap-Student-Management-System-Backend\BusinessObjects\bin\Debug\netcoreapp3.1\BusinessObjects.pdb
+F:\FINAP\finap-test-main\Finap-Student-Management-System-Backend\BusinessObjects\obj\Debug\netcoreapp3.1\BusinessObjects.csproj.AssemblyReference.cache
+F:\FINAP\finap-test-main\Finap-Student-Management-System-Backend\BusinessObjects\obj\Debug\netcoreapp3.1\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+F:\FINAP\finap-test-main\Finap-Student-Management-System-Backend\BusinessObjects\obj\Debug\netcoreapp3.1\BusinessObjects.AssemblyInfoInputs.cache
+F:\FINAP\finap-test-main\Finap-Student-Management-System-Backend\BusinessObjects\obj\Debug\netcoreapp3.1\BusinessObjects.AssemblyInfo.cs
+F:\FINAP\finap-test-main\Finap-Student-Management-System-Backend\BusinessObjects\obj\Debug\netcoreapp3.1\BusinessObjects.csproj.CoreCompileInputs.cache
+F:\FINAP\finap-test-main\Finap-Student-Management-System-Backend\BusinessObjects\obj\Debug\netcoreapp3.1\BusinessObjects.dll
+F:\FINAP\finap-test-main\Finap-Student-Management-System-Backend\BusinessObjects\obj\Debug\netcoreapp3.1\BusinessObjects.pdb

@@ -1,0 +1,39 @@
+D:\Finap Test\Finap_Test_Backend\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.deps.json
+D:\Finap Test\Finap_Test_Backend\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+D:\Finap Test\Finap_Test_Backend\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+D:\Finap Test\Finap_Test_Backend\DataAccessLayer\bin\Debug\netcoreapp3.1\BusinessObjects.dll
+D:\Finap Test\Finap_Test_Backend\DataAccessLayer\bin\Debug\netcoreapp3.1\BusinessObjects.pdb
+D:\Finap Test\Finap_Test_Backend\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Finap Test\Finap_Test_Backend\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Finap Test\Finap_Test_Backend\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Finap Test\Finap_Test_Backend\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfo.cs
+D:\Finap Test\Finap_Test_Backend\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Finap Test\Finap_Test_Backend\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CopyComplete
+D:\Finap Test\Finap_Test_Backend\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.dll
+D:\Finap Test\Finap_Test_Backend\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.pdb
+F:\FINAP\finap-test-main\Finap_Test_Backend\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.deps.json
+F:\FINAP\finap-test-main\Finap_Test_Backend\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+F:\FINAP\finap-test-main\Finap_Test_Backend\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+F:\FINAP\finap-test-main\Finap_Test_Backend\DataAccessLayer\bin\Debug\netcoreapp3.1\BusinessObjects.dll
+F:\FINAP\finap-test-main\Finap_Test_Backend\DataAccessLayer\bin\Debug\netcoreapp3.1\BusinessObjects.pdb
+F:\FINAP\finap-test-main\Finap_Test_Backend\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.AssemblyReference.cache
+F:\FINAP\finap-test-main\Finap_Test_Backend\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\FINAP\finap-test-main\Finap_Test_Backend\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfoInputs.cache
+F:\FINAP\finap-test-main\Finap_Test_Backend\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfo.cs
+F:\FINAP\finap-test-main\Finap_Test_Backend\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+F:\FINAP\finap-test-main\Finap_Test_Backend\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CopyComplete
+F:\FINAP\finap-test-main\Finap_Test_Backend\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.dll
+F:\FINAP\finap-test-main\Finap_Test_Backend\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.pdb
+F:\FINAP\finap-test-main\Finap-Student-Management-System-Backend\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.deps.json
+F:\FINAP\finap-test-main\Finap-Student-Management-System-Backend\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+F:\FINAP\finap-test-main\Finap-Student-Management-System-Backend\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+F:\FINAP\finap-test-main\Finap-Student-Management-System-Backend\DataAccessLayer\bin\Debug\netcoreapp3.1\BusinessObjects.dll
+F:\FINAP\finap-test-main\Finap-Student-Management-System-Backend\DataAccessLayer\bin\Debug\netcoreapp3.1\BusinessObjects.pdb
+F:\FINAP\finap-test-main\Finap-Student-Management-System-Backend\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.AssemblyReference.cache
+F:\FINAP\finap-test-main\Finap-Student-Management-System-Backend\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\FINAP\finap-test-main\Finap-Student-Management-System-Backend\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfoInputs.cache
+F:\FINAP\finap-test-main\Finap-Student-Management-System-Backend\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfo.cs
+F:\FINAP\finap-test-main\Finap-Student-Management-System-Backend\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+F:\FINAP\finap-test-main\Finap-Student-Management-System-Backend\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CopyComplete
+F:\FINAP\finap-test-main\Finap-Student-Management-System-Backend\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.dll
+F:\FINAP\finap-test-main\Finap-Student-Management-System-Backend\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.pdb

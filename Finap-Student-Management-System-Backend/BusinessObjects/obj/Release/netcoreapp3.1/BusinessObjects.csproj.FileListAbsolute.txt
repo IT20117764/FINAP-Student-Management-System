@@ -1,0 +1,10 @@
+F:\FINAP\finap-test-main\Finap_Test_Backend\BusinessObjects\bin\Release\netcoreapp3.1\BusinessObjects.deps.json
+F:\FINAP\finap-test-main\Finap_Test_Backend\BusinessObjects\bin\Release\netcoreapp3.1\BusinessObjects.dll
+F:\FINAP\finap-test-main\Finap_Test_Backend\BusinessObjects\bin\Release\netcoreapp3.1\BusinessObjects.pdb
+F:\FINAP\finap-test-main\Finap_Test_Backend\BusinessObjects\obj\Release\netcoreapp3.1\BusinessObjects.csproj.AssemblyReference.cache
+F:\FINAP\finap-test-main\Finap_Test_Backend\BusinessObjects\obj\Release\netcoreapp3.1\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+F:\FINAP\finap-test-main\Finap_Test_Backend\BusinessObjects\obj\Release\netcoreapp3.1\BusinessObjects.AssemblyInfoInputs.cache
+F:\FINAP\finap-test-main\Finap_Test_Backend\BusinessObjects\obj\Release\netcoreapp3.1\BusinessObjects.AssemblyInfo.cs
+F:\FINAP\finap-test-main\Finap_Test_Backend\BusinessObjects\obj\Release\netcoreapp3.1\BusinessObjects.csproj.CoreCompileInputs.cache
+F:\FINAP\finap-test-main\Finap_Test_Backend\BusinessObjects\obj\Release\netcoreapp3.1\BusinessObjects.dll
+F:\FINAP\finap-test-main\Finap_Test_Backend\BusinessObjects\obj\Release\netcoreapp3.1\BusinessObjects.pdb
